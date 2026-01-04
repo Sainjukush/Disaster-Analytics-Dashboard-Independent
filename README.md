@@ -38,25 +38,4 @@ This dashboard enables users to:
 
 ---
 
-##  How to Use
 
-1. Clone or download this repository.
-2. Open `synthetic_disaster_events_2025.twbx` in Tableau Desktop or Tableau Public.
-3. Replace the dataset with your own up-to-date or expanded data, matching fields.
-4. Use dashboard filters and interactive elements to explore, compare, and analyze results for events, regions, or disaster types.
-
----
-
-##  Customization
-
-- Update or expand the dataset fields for new events or countries.
-- Add additional charts or maps for further insights.
-- Adapt style and annotations for presentation, policy, or academic purposes.
-
----
-
-##  License
-
-Distributed under the MIT License (or specify your license).
-
----
